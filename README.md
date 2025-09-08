@@ -1,2 +1,1 @@
-# info-of-me
-details of me 
+# info-of-me 
