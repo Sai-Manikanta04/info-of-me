@@ -70,7 +70,7 @@
 </head>
 <body>
     <header>
-        <img src="https://via.placeholder.com/150" alt="Profile Photo" class="profile-pic">
+        <img src="profile.jpg" alt="Profile Photo" class="profile-pic">
         
         <h1>Sai Manikanta</h1>
         <h2>🚀 Full Stack Python Developer</h2>
