@@ -1,1 +1,1 @@
-# info-of-me 
+Details of Self Intro
